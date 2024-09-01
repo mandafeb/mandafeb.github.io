@@ -32,14 +32,14 @@ Every image that's used needed to be normalized and I picked 150x150 px as the d
 <br>
 For RGB, the color didn't need to be converted so I just had to extract the Red feature of RGB using K-Means Clustering method. 
 <br>
-<img src="../assets/images/posts_img/fire/image-3.png" alt="rgb">
+<img src="../../assets/images/posts_img/fire/image-3.png" alt="rgb">
 As for YCbCr, I had to convert the image's color profile first before extracting the feature. So gotta convert RGB color profile -> YCbCr, then extract the feature like I did with the RGB one.
-<img src="../assets/images/posts_img/fire/image-4.png" alt="cymk">
+<img src="../../assets/images/posts_img/fire/image-4.png" alt="cymk">
 <br>
 My thought on using these color profile is that I could get the red component from RGB, then get the luma component from YCbCr. Fire profile consists of said components (it applied at least to the fires I monitored). The profiles then processed further for classification using SVM. I would like to explain more about the methods but 
 <br>
 The following is the UI result of this experimentation. The base of the experiment (the training data) has been inputted on the backend. The classification would refer to the training data as the benchmark of the classification.
-<img src="../assets/images/posts_img/fire/image-5.png" alt="frontend">
+<img src="../../assets/images/posts_img/fire/image-5.png" alt="frontend">
 User would need to load the normal image. Then Cluster the RGB profile, then cluster said image for the YCbCr profile. After creating 'Sample Data', the result would show 'Api' (fire) or 'Bukan Api' (not fire). 
 <br>
 For comparison, I also used non-fire images for a false parameter. Since this experimentation used Confusion Matrix for validating and analyzing the result. For the experimentation, I did 4 different scenarios, in which I used 20 samples for each.<br>
@@ -52,23 +52,23 @@ Here's some of the sample results:
 * Benar = True
   Salah = False
 <br>
-<img src="../assets/images/posts_img/fire/image-6.png" alt="frontend">  
-<img src="../assets/images/posts_img/fire/image-7.png" alt="frontend">  
+<img src="../../assets/images/posts_img/fire/image-6.png" alt="frontend">  
+<img src="../../assets/images/posts_img/fire/image-7.png" alt="frontend">  
 <br>
 The images are acquired from various source. I did make sure that every images are under Creative Common License, just to make sure. Which is why it took me a while to gather these the sample images. 
-<img src="../assets/images/posts_img/fire/image-8.png" alt="frontend">  
+<img src="../../assets/images/posts_img/fire/image-8.png" alt="frontend">  
 The results are from 'Daylight, Forested area' and 'Night time, Forested area' scenarios. The results I attached coincidentally has 'True' result, which occurs when the expected result and the actual result is correct. 
 <br>
 Here's some more results from different scenarios:
-<img src="../assets/images/posts_img/fire/image-9.png" alt="frontend"> 
+<img src="../../assets/images/posts_img/fire/image-9.png" alt="frontend"> 
 These results included both True Positive; the Daylight  image was correct to the expectation; and True Negative which was also correct to the expected result. They are from the 'Daylight, Building Area' scenario.
-<img src="../assets/images/posts_img/fire/image-10.png" alt="frontend"> 
+<img src="../../assets/images/posts_img/fire/image-10.png" alt="frontend"> 
 The results are from 'Night time, Building Area' scenarios. The results I attached have 3 different result. The first one is False Negative, which was the result of an image that has fire. It resulted in 'No Fire' result, which is a Negative result and it was False. Hence the 'False Negative' result. The second one is a True Positive, then followed by a True Negative result. 
 <br>
 After processing all the images and its result, I compiled all of it to a table result based on each scenarios.
-<img src="../assets/images/posts_img/fire/image-11.png" alt="frontend"> 
+<img src="../../assets/images/posts_img/fire/image-11.png" alt="frontend"> 
 The false results are highlighted in red and there were 3 in this scenario. The results then calculated using Confusion Matrix calculation.
-<img src="../assets/images/posts_img/fire/image-12.png" alt="frontend"> 
+<img src="../../assets/images/posts_img/fire/image-12.png" alt="frontend"> 
 Based on the calculation, this scenario has an 85% accuracy, which is pretty good in my opinion. It needs to be noted, that the accuracy level on this scenario is the lowest amongst other scenarios. The overall results are:
 - Daylight, Forested Area: 95%
 - Night Time, Forested Area: 85%
