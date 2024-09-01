@@ -16,9 +16,9 @@ date: 2024-09-01
 last_modified_at: 2024-09-01
 ---
 
-## 🦥 본문
+🦥
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
