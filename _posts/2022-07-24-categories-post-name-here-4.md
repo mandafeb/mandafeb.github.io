@@ -84,15 +84,15 @@ body {
 </head>
 <body>
 
-<div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
-  <p>Click on the images below:</p>
-</div>
+<!-- <div style="text-align:center"> -->
+  <!-- <h2>Tabbed Image Gallery</h2> -->
+  <!-- <p>Click on the images below:</p> -->
+<!-- </div> -->
 
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="img_nature.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+    <img src="../../assets/images/posts_img/fire/image-3.png" alt="Nature" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
     <img src="img_snow.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
