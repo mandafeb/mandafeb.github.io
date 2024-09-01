@@ -25,7 +25,7 @@ I had a vague understanding on Machine Learning when I made this. I just thought
 The methods that I used were RGB & YCbCr converting, SVM, and K-Means Clustering. Okay look, I'm not gonna sit here and pretend that I knew what I was doing. I didn't know what I was doing, at least not 100% at the time. I had an idea on how those Algorithm works and just went with it. I had to do a lot of trial and error in the result of that. Why did I use those methods? Well I just read a lot of journals, then pretty much mix-match what works and what doesn't. <br>
 
 This is the summary on how I processed the data:
-<img src="../assets/images/posts_img/fire/image-2.png" alt="Workflow">
+<img src="~/assets/images/posts_img/fire/image-2.png" alt="Workflow">
 * I know it's not a proper diagram but I'm sure you get the point
 <br>
 Every image that's used needed to be normalized and I picked 150x150 px as the desired size. Then the images would be processed so that the colors needed could be extracted.
