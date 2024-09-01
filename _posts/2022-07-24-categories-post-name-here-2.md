@@ -16,12 +16,12 @@ date: 2022-12-10
 last_modified_at: 2022-12-10
 ---
 
-## 🦥
+🦥
 
-<b>Data preprocessing</b><br>
+### Data Preprocessing
 The data was required from ChEMBL Database. A chemical database of bioactive molecule with drug like properties.
 
-<table>
+<table class="table-wrapper" markdown="block" style='font-size:14px;'>
   <tr>
     <th>assay_chembl_id</th>
     <th>assay_type</th>
@@ -73,7 +73,7 @@ The Lipinski's Rule stated the following:
 - Hydrogen bond donors < 5
 - Hydrogen bond acceptors < 10
 <br>
-we also need to convert the $IC^{50}$ to $pIC{50}$, to allow $IC^{50}$ data to be more uniformly distributed, we will convert $IC^{50}$ to the negative logarithmic scale which is essentially $-log10(IC^{50})$. 
+we also need to convert the $IC^{50}$ to $pIC{50}$, to allow $IC^{50}$ data to be more uniformly distributed, we will convert $IC^{50}$ to the negative logarithmic scale which is essentially $-log10(IC^{50})$. <br>
 The conversion process is the following:
 
 > * Take the $IC^{50}$ values from the standard_value column and converts it from nM to M by multiplying the value by $10^{-9}$
@@ -101,7 +101,7 @@ From the preprocessing, we get this data
 ### Model
 The pre-processed **Canonical SMILES** are processed using PaDEL Descriptor to get the fingerprints which are later used for the modeling. The fingerprints acquired has 882 columns so to maximize the result, the low variance are removed using the **Variance Threshold** from the sklearn feature selection.
 
-<div class="table-wrapper" markdown="block" style='font-size:10px;'>
+<div class="table-wrapper" markdown="block" style='font-size:14px;'>
 
 |   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | ... | 165 | 166 | 167 | 168 | 169 | 170 | 171 | 172 | 173 | 174 |
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|----:|----:|----:|----:|----:|----:|----:|----:|----:|----:|----:|
@@ -115,7 +115,7 @@ The pre-processed **Canonical SMILES** are processed using PaDEL Descriptor to g
 
 After applying 3 different algorithm (CatBoost, Forest Regressor, Gradient Boost) and comparing the results, it is concluded that **Gradient Boost** with **Grid CV** is the best algorithm to use in this case with the $R^2 = 8.38$.
 
-<img src="/assets/entamoeba/test.png" style='margin:10px;width:75%;margin-left:100px;'/>
+<!-- <img src="/assets/entamoeba/test.png" style='margin:10px;width:75%;margin-left:100px;'/> -->
 
 <button class="button button1" onclick="window.open('https://github.com/mandafeb/Entamoeba','_blank')" type="button"><b>Code</b></button> 
 
