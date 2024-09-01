@@ -120,6 +120,3 @@ After applying 3 different algorithm (CatBoost, Forest Regressor, Gradient Boost
 <button class="button button1" onclick="window.open('https://github.com/mandafeb/Entamoeba','_blank')" type="button"><b>Code</b></button> 
 
 <br />
-<br />
-
-<button class="button button1" type="button" style='margin:10px;'><b>Demo</b></button> 
