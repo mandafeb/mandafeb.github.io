@@ -27,7 +27,7 @@ The methods that I used were RGB & YCbCr converting, SVM, and K-Means Clustering
 This is the summary on how I processed the data:
 <img src="../assets/images/posts_img/fire/image-2.png" alt="Workflow">
 * I know it's not a proper diagram but I'm sure you get the point
-
+<br>
 Every image that's used needed to be normalized and I picked 150x150 px as the desired size. Then the images would be processed so that the colors needed could be extracted.
 <br>
 For RGB, the color didn't need to be converted so I just had to extract the Red feature of RGB using K-Means Clustering method. 
