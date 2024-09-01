@@ -1,6 +1,6 @@
 ---
 title: "Image Processing on Fire"
-excerpt: "*my bachelor thesis"
+excerpt: ""
 
 categories:
   - Work
