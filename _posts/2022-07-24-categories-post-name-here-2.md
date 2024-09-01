@@ -21,7 +21,7 @@ last_modified_at: 2022-12-10
 ### Data Preprocessing
 The data was required from ChEMBL Database. A chemical database of bioactive molecule with drug like properties.
 
-<table class="table-wrapper" markdown="block" style='font-size:14px;'>
+<table class="table-wrapper" markdown="block" style='font-size:14px;display: flex; align-items: center; justify-content: center;'>
   <tr>
     <th>assay_chembl_id</th>
     <th>assay_type</th>
@@ -86,7 +86,7 @@ Lastly, we need to clean the *salt* from the **Canonical SMILES**.
 The Canonical SMILES were pre-processed by applying sequential filters to remove stereochemistry, salts, and molecules with undesirable atoms or groups. SMILES strings $>100$ symbols in length were removed, as $∼97%$ of the dataset consists of SMILES strings with $<100$ symbols. The RDKit library in Python was used for this pre-processing. 
 
 From the preprocessing, we get this data
-<div class="table-wrapper" markdown="block" style='font-size:14px;'>
+<div class="table-wrapper" markdown="block" style='font-size:14px;display: flex; align-items: center; justify-content: center;'>
 
 | molecule_chembl_id |               canonical_smiles | bioactivity_class |      MW |    LogP | NumHDonors | NumHAcceptors |    pIC50 |
 |:------------------:|:------------------------------:|:-----------------:|:-------:|:-------:|:----------:|:-------------:|:--------:|
@@ -101,7 +101,7 @@ From the preprocessing, we get this data
 ### Model
 The pre-processed **Canonical SMILES** are processed using PaDEL Descriptor to get the fingerprints which are later used for the modeling. The fingerprints acquired has 882 columns so to maximize the result, the low variance are removed using the **Variance Threshold** from the sklearn feature selection.
 
-<div class="table-wrapper" markdown="block" style='font-size:14px;'>
+<div class="table-wrapper" markdown="block" style='font-size:14px;display: flex; align-items: center; justify-content: center;'>
 
 |   | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | ... | 165 | 166 | 167 | 168 | 169 | 170 | 171 | 172 | 173 | 174 |
 |--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|----:|----:|----:|----:|----:|----:|----:|----:|----:|----:|----:|
