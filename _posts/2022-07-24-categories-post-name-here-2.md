@@ -1,21 +1,40 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "Drug Discovery on entamoeba histolytica"
+excerpt: ""
 
 categories:
-  - Categories2
+  - Work
 tags:
-  - [tag1, tag2]
+  - [work, bioinformatics]
 
-permalink: /categories2/post-name-here-2/
+permalink: /Work/Entamoeba/
 
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2022-12-10
+last_modified_at: 2022-12-10
 ---
 
-## 🦥 본문
+## 🦥
 
-본문은 여기에 ...
+<b>Data preprocessing</b>
+The data was required from ChEMBL Database. A chemical database of bioactive molecule with drug like properties.
+
+\begin{center}
+\begin{tabular}{||c c c c||} 
+ \hline
+ Col1 & Col2 & Col2 & Col3 \\ [0.5ex] 
+ \hline\hline
+ 1 & 6 & 87837 & 787 \\ 
+ \hline
+ 2 & 7 & 78 & 5415 \\
+ \hline
+ 3 & 545 & 778 & 7507 \\
+ \hline
+ 4 & 545 & 18744 & 7560 \\
+ \hline
+ 5 & 88 & 788 & 6344 \\ [1ex] 
+ \hline
+\end{tabular}
+\end{center}
