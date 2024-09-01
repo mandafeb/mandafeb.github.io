@@ -18,23 +18,56 @@ last_modified_at: 2022-12-10
 
 ## 🦥
 
-<b>Data preprocessing</b>
+<b>Data preprocessing</b><br>
 The data was required from ChEMBL Database. A chemical database of bioactive molecule with drug like properties.
 
-\begin{center}
-\begin{tabular}{||c c c c||} 
- \hline
- Col1 & Col2 & Col2 & Col3 \\ [0.5ex] 
- \hline\hline
- 1 & 6 & 87837 & 787 \\ 
- \hline
- 2 & 7 & 78 & 5415 \\
- \hline
- 3 & 545 & 778 & 7507 \\
- \hline
- 4 & 545 & 18744 & 7560 \\
- \hline
- 5 & 88 & 788 & 6344 \\ [1ex] 
- \hline
-\end{tabular}
-\end{center}
+<table>
+  <tr>
+    <th>assay_chembl_id</th>
+    <th>assay_type</th>
+    <th>target_organism</th>
+    <th>type</th>
+    <th>units</th>
+    <th>value</th>
+  </tr>
+  <tr>
+    <td>CHEMBL676675</td>
+    <td>F</td>
+    <td>Entamoeba histolytica</td>
+    <td>IC50</td>
+    <td>uM</td>
+    <td>0.069</td>
+  </tr>
+  <tr>
+    <td>CHEMBL676675</td>
+    <td>F</td>
+    <td>Entamoeba histolytica</td>
+    <td>IC50</td>
+    <td>uM</td>
+    <td>0.022</td>
+  </tr>
+  <tr>
+    <td>CHEMBL676675</td>
+    <td>F</td>
+    <td>Entamoeba histolytica</td>
+    <td>IC50</td>
+    <td>uM</td>
+    <td>0.35</td>
+  </tr>
+  <tr>
+    <td>CHEMBL676675</td>
+    <td>F</td>
+    <td>Entamoeba histolytica</td>
+    <td>IC50</td>
+    <td>uM</td>
+    <td>0.046</td>
+  </tr>
+</table>
+
+after requiring the necessary data, we could explore the data using Lipinski Descriptor. Christopher Lipinski, a scientist at Pfizer, came up with a set of rule-of-thumb for evaluating the druglikeness of compounds. Such druglikeness is based on the Absorption, Distribution, Metabolism and Excretion (ADME) that is also known as the pharmacokinetic profile. Lipinski analyzed all orally active FDA-approved drugs in the formulation of what is to be known as the Rule-of-Five or Lipinski's Rule.
+<br>
+The Lipinski's Rule stated the following:<br>
+- Molecular weight < 500 Dalton
+- Octanol-water partition coefficient (LogP) < 5
+- Hydrogen bond donors < 5
+- Hydrogen bond acceptors < 10
