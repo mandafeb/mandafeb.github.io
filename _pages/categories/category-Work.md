@@ -1,5 +1,5 @@
 ---
-title: "Work"
+title: "(ง'-')ง Work"
 layout: category
 permalink: /categories/Work/
 author_profile: true

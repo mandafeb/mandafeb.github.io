@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "(ง'-')ง Work"
+  - title: "Work"
     url: /categories/Work/
-  - title: "✦·┈๑⋅⋯ Blog ⋯⋅๑┈·✦"
+  - title: "Blog"
     url: /categories/Blog/
-  - title: "Art 𓆝 ⋆｡𖦹°‧"
+  - title: "Art"
     url: /categories/Art/
   # - title: "Categories4"
     # url: /categories/categories4/

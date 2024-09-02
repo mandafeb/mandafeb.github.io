@@ -72,13 +72,3 @@ A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother
 <img src="../../assets/images/posts_img/bayern/R1-07918-0021.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0022.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0023.JPG" style="width:100%">
-
-<div style="text-align: center;">
-  <pre>
-⢰⣖⣻⢫⣭⣭⣭⠭⠭⠭⠭⠭⢭⢹⣛⣒⡢⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣾⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⢸⠸⠛⠛⠿⣷⣭⣭⣽⣿⠷⣶⣶⣶⣤⣤⣤⢄
-⣿⣏⡀⡾⣿⣿⣿⣿⣿⣿⣿⣿⣸⡄⠀⠀⠀⣸⣿⣿⣿⣷⣿⠎⣿⣿⣿⣿⣿⣿
-⣿⣿⣶⢡⢺⣿⣿⣿⣿⣿⣿⣿⣿⢸⣐⣒⣾⢞⣻⣿⣿⣷⠷⠿⠿⠏⠉⠛⠛⠛
-⠸⢯⣿⣜⣒⣒⣒⣚⣛⣛⣛⣛⣛⣸⣛⣯⠵⠋⠀⠀⠀⠀⠀
-  </pre>
-</div>

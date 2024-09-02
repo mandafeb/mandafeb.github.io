@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "✦·┈๑⋅⋯ Blog ⋯⋅๑┈·✦"
 layout: category
 permalink: /categories/Blog/
 author_profile: true

@@ -12,7 +12,6 @@ Hi! I’m a student pursuing a master's degree in Life Science Informatics/Bioin
 ˗ˏˋ 𓅰𓅭𓅰ˎˊ˗
   </pre>
 </div>
-<br>
 This site showcases my skills through the projects I've been building throughout my experience, as well as my various interests :)
 
 Technical Skills
