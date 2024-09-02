@@ -21,8 +21,8 @@ last_modified_at: 2024-09-01
 <img src="../../assets/images/posts_img/strass/R1-01007-003A.JPG" alt="Workflow" style="width:100%">
 <br>
 
-<div class="row">
-  <div class="column">
+<div class="row" style='display: flex;clear: both;display: table;'>
+  <div class="column" style='padding: 5px;'>
     <img src="../../assets/images/posts_img/strass/R1-01007-005A.JPG" style="width:100%">
   </div>
   <div class="column">
