@@ -29,6 +29,16 @@ A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother
     <img src="../../assets/images/posts_img/bayern/R1-07918-0003.JPG" style="width:100%">
   </div>
 </div>
+<img src="../../assets/images/posts_img/bayern/R1-07918-0029.JPG" style="width:100%">
+<div class="row">
+  <div class="column" style="padding: 5px; float: left; width: 50%;">
+    <img src="../../assets/images/posts_img/bayern/R1-07918-0025.JPG" style="width:100%">
+  </div>
+  <div class="column" style="padding: 5px; float: left; width: 50%;">
+    <img src="../../assets/images/posts_img/bayern/R1-07918-0028.JPG" style="width:100%">
+  </div>
+</div>
+
 ## Thalmassing
 <img src="../../assets/images/posts_img/bayern/R1-07918-0006.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0007.JPG" style="width:100%">
@@ -37,6 +47,7 @@ A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother
 <img src="../../assets/images/posts_img/bayern/R1-07918-0008.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0009.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0011.JPG" style="width:100%">
+
 ## Regensburg
 <div class="row">
   <div class="column" style="padding: 5px; float: left; width: 50%;">
@@ -46,6 +57,7 @@ A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother
     <img src="../../assets/images/posts_img/bayern/R1-07918-0014.JPG" style="width:100%">
   </div>
 </div>
+<img src="../../assets/images/posts_img/bayern/R1-07918-0017.JPG" style="width:100%">
 <div class="row">
   <div class="column" style="padding: 5px; float: left; width: 50%;">
     <img src="../../assets/images/posts_img/bayern/R1-07918-0015.JPG" style="width:100%">
@@ -54,3 +66,9 @@ A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother
     <img src="../../assets/images/posts_img/bayern/R1-07918-0016.JPG" style="width:100%">
   </div>
 </div>
+<img src="../../assets/images/posts_img/bayern/R1-07918-0019.JPG" style="width:100%">
+
+## Neuschwanstein
+<img src="../../assets/images/posts_img/bayern/R1-07918-0021.JPG" style="width:100%">
+<img src="../../assets/images/posts_img/bayern/R1-07918-0022.JPG" style="width:100%">
+<img src="../../assets/images/posts_img/bayern/R1-07918-0023.JPG" style="width:100%">
