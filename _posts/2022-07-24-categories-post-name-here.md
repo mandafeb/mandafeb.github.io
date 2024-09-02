@@ -1,21 +1,54 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
+title: "Bavaria Trip ( •ᴗ•)⸝🍻⸜(•ᴗ• )"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
-  - Categories1
+  - Blog
 tags:
-  - [tag1, tag2]
+  - [photography, travel, blog]
 
-permalink: /categories1/post-name-here/
+permalink: /blog/bavaria/
 
 toc: true
 toc_sticky: true
 
-date: 2020-05-21
-last_modified_at: 2021-10-09
+date: 2024-08-07
+last_modified_at: 2024-09-02
 ---
 
-## 🦥 본문
+A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother)
+<i>shot by: Olympus Mju 1 Digital Camera</i><br>
+<i>shot with: KODAK GOLD 200 135-36</i><br>
 
-본문은 여기에 ...
+> Munich
+<div class="row">
+  <div class="column" style="padding: 5px; float: left; width: 50%;">
+    <img src="../../assets/images/posts_img/bayern/R1-07918-0001.JPG" style="width:100%">
+  </div>
+  <div class="column" style="padding: 5px; float: left; width: 50%;">
+    <img src="../../assets/images/posts_img/bayern/R1-07918-0003.JPG" style="width:100%">
+  </div>
+</div>
+> Thalmassing
+<img src="../../assets/images/posts_img/bayern/R1-07918-0006.JPG" style="width:100%">
+<img src="../../assets/images/posts_img/bayern/R1-07918-0007.JPG" style="width:100%">
+<img src="../../assets/images/posts_img/bayern/R1-07918-0008.JPG" style="width:100%">
+<img src="../../assets/images/posts_img/bayern/R1-07918-0009.JPG" style="width:100%">
+<img src="../../assets/images/posts_img/bayern/R1-07918-0011.JPG" style="width:100%">
+> Regensburg
+<div class="row">
+  <div class="column" style="padding: 5px; float: left; width: 50%;">
+    <img src="../../assets/images/posts_img/bayern/R1-07918-0012.JPG" style="width:100%">
+  </div>
+  <div class="column" style="padding: 5px; float: left; width: 50%;">
+    <img src="../../assets/images/posts_img/bayern/R1-07918-0014.JPG" style="width:100%">
+  </div>
+</div>
+<div class="row">
+  <div class="column" style="padding: 5px; float: left; width: 50%;">
+    <img src="../../assets/images/posts_img/bayern/R1-07918-0015.JPG" style="width:100%">
+  </div>
+  <div class="column" style="padding: 5px; float: left; width: 50%;">
+    <img src="../../assets/images/posts_img/bayern/R1-07918-0016.JPG" style="width:100%">
+  </div>
+</div>
