@@ -18,7 +18,7 @@ last_modified_at: 2024-09-02
 Strassbourg trip with my friends from the LSI Program <br>
 <i>shot with: KODAK GOLD 200 135-36</i><br>
 <i>shot by: Olympus Mju 1 Digital Camera</i><br>
-<div id='stork' style='center'>
+<div id='stork' style='text-align: center; white-space: pre;font-family: monospace;'>
 ⠀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠈⢿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢻⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⢠⣾⡿⢿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀
