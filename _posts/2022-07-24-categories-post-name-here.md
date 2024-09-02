@@ -32,7 +32,7 @@ A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother
 ## Thalmassing
 <img src="../../assets/images/posts_img/bayern/R1-07918-0006.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0007.JPG" style="width:100%">
-> It was not exactly Thalmassing, but it was nearby. I can not express how much I love photographing carnival rides :3 <br>
+  It was not exactly Thalmassing, but it was nearby. I can not express how much I love photographing carnival rides :3 <br>
 <img src="../../assets/images/posts_img/bayern/R1-07918-0008.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0009.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0011.JPG" style="width:100%">
