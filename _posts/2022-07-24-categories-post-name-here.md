@@ -1,6 +1,6 @@
 ---
 title: "Bavaria Trip ( •ᴗ•)⸝🍻⸜(•ᴗ• )"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+excerpt: ""
 
 categories:
   - Blog
@@ -20,7 +20,7 @@ A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother
 <i>shot by: Olympus Mju 1 Digital Camera</i><br>
 <i>shot with: KODAK GOLD 200 135-36</i><br>
 
-> Munich
+## Munich
 <div class="row">
   <div class="column" style="padding: 5px; float: left; width: 50%;">
     <img src="../../assets/images/posts_img/bayern/R1-07918-0001.JPG" style="width:100%">
@@ -29,13 +29,14 @@ A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother
     <img src="../../assets/images/posts_img/bayern/R1-07918-0003.JPG" style="width:100%">
   </div>
 </div>
-> Thalmassing
+## Thalmassing
 <img src="../../assets/images/posts_img/bayern/R1-07918-0006.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0007.JPG" style="width:100%">
+> It was not exactly Thalmassing, but it was nearby. I can not express how much I love photographing carnival rides :3 <br>
 <img src="../../assets/images/posts_img/bayern/R1-07918-0008.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0009.JPG" style="width:100%">
 <img src="../../assets/images/posts_img/bayern/R1-07918-0011.JPG" style="width:100%">
-> Regensburg
+## Regensburg
 <div class="row">
   <div class="column" style="padding: 5px; float: left; width: 50%;">
     <img src="../../assets/images/posts_img/bayern/R1-07918-0012.JPG" style="width:100%">
