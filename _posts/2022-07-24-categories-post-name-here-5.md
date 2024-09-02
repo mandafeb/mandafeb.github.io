@@ -35,7 +35,6 @@ Went for a stop in Netherland, exploring the local cuisines and more<br>
 <img src="../../assets/images/posts_img/dutch/R1-07918-0034.JPG" style="width:100%">
 
 by Albert Buys:
-
 <div style="text-align: center;">
   <pre>
 
@@ -58,6 +57,5 @@ by Albert Buys:
 _|______|__|____|_|_|__=______|_==__-|_______|__||_____|___|_____|
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
   </pre>
 </div>
