@@ -16,7 +16,7 @@ date: 2024-08-07
 last_modified_at: 2024-09-02
 ---
 
-A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother)
+A trip to Bavaria, visiting an auntie (a friend of the wife of my aunt's brother)<br>
 <i>shot by: Olympus Mju 1 Digital Camera</i><br>
 <i>shot with: KODAK GOLD 200 135-36</i><br>
 
