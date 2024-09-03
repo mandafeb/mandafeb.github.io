@@ -12,8 +12,8 @@ permalink: /art/isopod/
 toc: true
 toc_sticky: true
 
-date: 2024-12-03
-last_modified_at: 2024-12-03
+date: 2024-02-03
+last_modified_at: 2024-02-03
 ---
 <img src="../../assets/images/posts_img/art/Isopod.gif" style="width:100%">
 <br>
