@@ -1,5 +1,5 @@
 ---
-title: "𓇢𓆸 Netherland / 'Dutches'"
+title: "𓇢𓆸 Netherlands"
 excerpt: ""
 
 categories:
